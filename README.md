@@ -1,7 +1,7 @@
 # Extended Euclidean Algorithms Step By Step Working Generator
 
 Simple side-project for generating each step in extended euclidean algorithm 
-since doing the algorithm by hand is quite repetitive  
+since doing the algorithm by hand is quite repetitive.
 
 How to use:  
  
