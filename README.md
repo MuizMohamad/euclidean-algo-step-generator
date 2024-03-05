@@ -1,4 +1,4 @@
-# Extended Euclidean Algorithms Step By Step Working Generator
+# Extended Euclidean Algorithms Solver (Step By Step)
 
 Simple side-project for generating each step in extended euclidean algorithm 
 since doing the algorithm by hand is quite repetitive.
